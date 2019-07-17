@@ -39,3 +39,12 @@
 - PWA (progresive web app)
 - AMP (accelarated mobile pages)
 - SSR (server side render)
+
+# Deep on modern JS
+How to React to all this new changes!
+- React
+  - Basic
+  - React router
+  - Redux
+  - Functional programing
+  - Hooks
