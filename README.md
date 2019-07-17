@@ -8,6 +8,7 @@
   - History
   - HTML 5
     - Accesibility
+- Mobile First (Responsive Web)
 - CSS 3
   - Basic (what it is and what it does)
   - Properties
