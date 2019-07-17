@@ -12,6 +12,7 @@
   - Basic (what it is and what it does)
   - Properties
   - Positioning
+  - Layout
   - Animations
   - SASS and Processors
   - Naming conventins, BEM, Functional and others styles
