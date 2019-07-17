@@ -27,7 +27,11 @@
 - Examples
   - Show two equal webs with old/bad css and good css
   - Discuss the diferents with the two
-- Boostrap, Jquery, Templates, Builds configuration.
+- Boostrap, Jquery, Templates, etc
+  - Bower
+  - Npm
+  - Gulp
+  - Build configurations
 - Optimization for the web 
   - How to manage a budget for my dependencies and how to improve it
 - Wordpress
