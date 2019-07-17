@@ -12,6 +12,7 @@
   - Basic (what it is and what it does)
   - Properties
   - Positioning
+  - Selectors
   - Layout
   - Animations
   - SASS and Processors
