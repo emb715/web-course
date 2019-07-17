@@ -25,6 +25,8 @@
   - Show two equal webs with old/bad css and good css
   - Discuss the diferents with the two
 - Boostrap, Jquery, Templates, Builds configuration.
+- Wordpress
+- PHP
 
 
 **Advance**
