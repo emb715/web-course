@@ -22,7 +22,7 @@
     - What, Why and where use them
     - JS Titans: React, Vue and Angular
 - Examples
-  - Show to equal web with old/bad css and good css
+  - Show two equal webs with old/bad css and good css
   - Discuss the diferents with the two
 - Boostrap, Jquery, Templates, Builds configuration.
 
@@ -34,9 +34,3 @@
 - PWA (progresive web app)
 - AMP (accelarated mobile pages)
 - SSR (server side render)
-
-----
-
-**NextJS**
-
-Building a web with components and server side render like eating a apple (?
