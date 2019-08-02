@@ -18,13 +18,12 @@ Like all products o services that we consume, we want to have a good experience.
     Media Queries
   - Responsive Images
 - CSS 3
-  - Basic (what it is and what it does)
   - Properties
   - Positioning
   - Selectors
-  - Layout
+  - Layouts
   - Animations
-  - SASS and Processors
+  - SCSS and preprocessor
   - Naming conventins, BEM, Functional and others styles
 - Javascript
   - VanillaJS
