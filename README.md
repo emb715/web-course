@@ -8,7 +8,11 @@
   - History
   - HTML 5
     - Accesibility
+  - CSS & JS
 - Mobile First (Responsive Web)
+  - Responsive Layout
+    Media Queries
+  - Responsive Images
 - CSS 3
   - Basic (what it is and what it does)
   - Properties
