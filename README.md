@@ -4,7 +4,7 @@
 Make web apps that fulfill people's needs, and that they not had to over think what to do, it has to be usable with a clean comunication.
 Like all products o services that we consume, we want to have a good experience. Lets try to give that out ;)
 
-- What is internet
+- What is a network, how internet works
 - How navigators works
   - History
   - Overall working
