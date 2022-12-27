@@ -40,13 +40,23 @@ JS Titans: React, Vue and Angular
 # Lvl 02
 
 Extras Server Side HTML > PHP/Python
+
+## PHP
 https://www.w3schools.com/php/
 
+
+## Python
 https://www.w3schools.com/python/
+
 https://www.djangoproject.com/
 
+-  https://realpython.com/django-todo-lists/
 
-- How to run PHP with a docker container on visual code.
+
+
+ ### How to run PHP with a docker container on visual code
+https://blog.devsense.com/2022/develop-php-in-docker
+
 
 # Lvl 03
 Advance JS
