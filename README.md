@@ -24,7 +24,7 @@ Like all products o services that we consume, we want to have a good experience.
   - Layouts
   - Animations
   - SCSS and preprocessor
-  - Naming conventins, BEM, Functional and others styles
+  - Naming conventions, BEM, Functional and others styles
 - Javascript
   - VanillaJS
   - History / old to modern
