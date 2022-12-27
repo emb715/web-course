@@ -5,7 +5,7 @@ Make web apps that fulfill people's needs, and that they not had to over think w
 Like all products o services that we consume, we want to have a good experience. Lets try to give that out ;)
 
 - [What is a network, how internet works](./level-01/networks-and-internet.md)
-- How navigators works
+- How browsers works
   - History
   - Overall working
 - What is a Web Page
